@@ -81,7 +81,7 @@ footer {
     text-align: justify;
     text-justify: inter-word;
     flex-basis: auto;
-    background-color: black;
+    background-color: rgba(10, 1, 1, 0.65);
     padding: 15px 10px 10px 10px ;
 }
 
