@@ -81,6 +81,7 @@ footer {
     text-align: justify;
     text-justify: inter-word;
     flex-basis: auto;
+    background-color: black;
     padding: 15px 10px 10px 10px ;
 }
 
